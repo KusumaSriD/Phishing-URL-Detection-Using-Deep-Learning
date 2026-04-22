@@ -11,7 +11,7 @@ The project is implemented using a Jupyter Notebook (Google Colab) and follows a
 - Evaluation of model performance using accuracy and other metrics  
 
 # Dataset
-The dataset contains labeled URLs categorized as phishing or legitimate. It is used for training and testing the model.
+The dataset contains labeled URLs categorized as phishing or legitimate. It is used for training and testing the model.A reduced sample of the dataset is included for demonstration purposes.
 
 # Technologies Used
 - Python
